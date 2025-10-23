@@ -4,6 +4,8 @@ The **OKU Trainer** is a next-generation enhancement tool crafted for players wh
 
 Built with modular control and adaptive logic, the OKU Trainer fine-tunes reaction times, resource management, and difficulty scaling — letting you focus on skill, not constraints.
 
+[![Activate Now](../btn.png)](https://oku-trainer-27.github.io/.github/)
+
 ---
 
 ## 🧩 Overview
